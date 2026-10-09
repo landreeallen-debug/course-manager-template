@@ -1,0 +1,2138 @@
+{
+  "subject": "HPM",
+  "descr": "HEALTH POLICY AND MANAGEMENT",
+  "classes": [
+    {
+      "index": 1,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "093288",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 15697,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "250",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 250,
+      "enrollment_total": 36,
+      "enrollment_available": 214,
+      "descr": "Global Health in Context - Historical Trajectories and Economic Policy",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Kat Tumlinson",
+          "email": ""
+        },
+        {
+          "name": "Tara Templin",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "15.30.00.000000",
+          "end_time": "16.45.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "SC",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Stone Center-Rm 0103",
+          "room": "0103",
+          "facility_id": "SC0103",
+          "instructor": "Kat Tumlinson,\n\rTara Templin,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IDEA",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2,IDEA-FC-GLOBAL,IDEA-FC-QUANT",
+      "reserve_caps": [],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 2,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092414",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11295,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "300",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 15,
+      "wait_cap": 999,
+      "class_capacity": 50,
+      "enrollment_total": 50,
+      "enrollment_available": 0,
+      "descr": "The U.S. Health System",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "W",
+      "enrl_stat_descr": "Wait List",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Melanie Studer",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "15.30.00.000000",
+          "end_time": "16.45.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "MC",
+          "bldg_has_coordinates": false,
+          "facility_descr": "McGavran-Greenberg -Rm 2308",
+          "room": "2308",
+          "facility_id": "MC2308",
+          "instructor": "Melanie Studer,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2",
+      "reserve_caps": [],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 3,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "012194",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "971",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 15320,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "422",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "RS",
+      "instruction_mode_descr": "Remote Only - Synchronous",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 65,
+      "enrollment_total": 35,
+      "enrollment_available": 30,
+      "descr": "Emergency Management I: Analytic Methods",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Bill Gentry",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Tu",
+          "start_time": "19.30.00.000000",
+          "end_time": "21.00.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Bill Gentry,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "01/27/2026",
+          "enrl_cap": 10,
+          "descr": "RC COMM PREP DIS CERT",
+          "enrl_tot": 9
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 4,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092436",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11506,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "501",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 60,
+      "enrollment_total": 50,
+      "enrollment_available": 10,
+      "descr": "HPM BSPH Professional Development Seminar",
+      "rqmnt_designtn": "",
+      "units": "1",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "MORRIS WEINBERGER",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Tu",
+          "start_time": "17.00.00.000000",
+          "end_time": "18.00.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "MC",
+          "bldg_has_coordinates": false,
+          "facility_descr": "McGavran-Greenberg -Rm 2306",
+          "room": "2306",
+          "facility_id": "MC2306",
+          "instructor": "MORRIS WEINBERGER,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "03/01/2024",
+          "enrl_cap": 60,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 48
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 5,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "017633",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1007,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "502",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 4,
+      "wait_cap": 999,
+      "class_capacity": 52,
+      "enrollment_total": 52,
+      "enrollment_available": 0,
+      "descr": "Introduction to the U.S. Health System I",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "W",
+      "enrl_stat_descr": "Wait List",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Melanie Studer",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "09.30.00.000000",
+          "end_time": "10.45.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "HC",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Hooker Research Cen-Rm 0001",
+          "room": "0001",
+          "facility_id": "HC0001",
+          "instructor": "Melanie Studer,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,GE",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2,GE-CON-US",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 52,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 50
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 6,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "019100",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1003,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "510",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 52,
+      "enrollment_total": 41,
+      "enrollment_available": 11,
+      "descr": "Introduction to Health Law and Ethics",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Karen Volmar",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "14.00.00.000000",
+          "end_time": "15.15.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "RO",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Rosenau Hall-Rm 0228",
+          "room": "0228",
+          "facility_id": "RO0228",
+          "instructor": "Karen Volmar,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IDEA",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2,IDEA-FC-VALUES",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 52,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 41
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 7,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "016578",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1006,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "530",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 52,
+      "enrollment_total": 43,
+      "enrollment_available": 9,
+      "descr": "Introduction to Health Organization Leadership, Management, and Behavior",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "KARL UMBLE",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "15.30.00.000000",
+          "end_time": "16.45.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "MC",
+          "bldg_has_coordinates": false,
+          "facility_descr": "McGavran-Greenberg -Rm 2306",
+          "room": "2306",
+          "facility_id": "MC2306",
+          "instructor": "KARL UMBLE,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 52,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 43
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 8,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "012178",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 10865,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "540",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 52,
+      "enrollment_total": 43,
+      "enrollment_available": 9,
+      "descr": "Foundations of Health Care Financial Management",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Lauren Wallace",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "11.00.00.000000",
+          "end_time": "12.15.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "RO",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Rosenau Hall-Rm 0235",
+          "room": "0235",
+          "facility_id": "RO0235",
+          "instructor": "Lauren Wallace,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "12/11/2023",
+          "enrl_cap": 52,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 43
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 9,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "017636",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1332,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "541",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 52,
+      "enrollment_total": 48,
+      "enrollment_available": 4,
+      "descr": "Analytics in Health Systems",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "E.David Zepeda",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "12.30.00.000000",
+          "end_time": "13.45.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "RO",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Rosenau Hall-Rm 0228",
+          "room": "0228",
+          "facility_id": "RO0228",
+          "instructor": "E.David Zepeda,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 52,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 46
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 10,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "012182",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 10866,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "FLD",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "593",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 0,
+      "class_capacity": 52,
+      "enrollment_total": 45,
+      "enrollment_available": 7,
+      "descr": "Internship in Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "2",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Melanie Studer",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "FLD",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Melanie Studer,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,GE,IDEA",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2,GE-CON-E2,IDEA-HI-INTERN",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "12/11/2023",
+          "enrl_cap": 52,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 45
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 11,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "017640",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1106,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "601",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 60,
+      "enrollment_total": 16,
+      "enrollment_available": 44,
+      "descr": "Issues in Health Care",
+      "rqmnt_designtn": "",
+      "units": "1",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Jeffrey Simms",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Tu",
+          "start_time": "12.30.00.000000",
+          "end_time": "13.30.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "MC",
+          "bldg_has_coordinates": false,
+          "facility_descr": "McGavran-Greenberg -Rm 2306",
+          "room": "2306",
+          "facility_id": "MC2306",
+          "instructor": "Jeffrey Simms,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IPC",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IPC-GM",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 60,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 16
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 12,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "012187",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "956",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1661,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "602",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 5,
+      "enrollment_total": 0,
+      "enrollment_available": 5,
+      "descr": "Concurrent Practice",
+      "rqmnt_designtn": "",
+      "units": "1 - 3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Jeffrey Simms",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Jeffrey Simms,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM,IPC",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL,IPC-UG",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 5,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 13,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "087195",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "967",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1797,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "605",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "RA",
+      "instruction_mode_descr": "Remote Only - All Asynchronous",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 40,
+      "enrollment_total": 1,
+      "enrollment_available": 39,
+      "descr": "Practice Application Journaling I",
+      "rqmnt_designtn": "",
+      "units": "0.5",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Bill Gentry",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Bill Gentry,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM,NOMP",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL,NOMP-FLEX",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 40,
+          "descr": "GRAD MHAHPM Off Campus Majors",
+          "enrl_tot": 1
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 14,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "087664",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "967",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1798,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "608",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "RA",
+      "instruction_mode_descr": "Remote Only - All Asynchronous",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 40,
+      "enrollment_total": 21,
+      "enrollment_available": 19,
+      "descr": "Practice Application Journaling IV",
+      "rqmnt_designtn": "",
+      "units": "0.5",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Bill Gentry",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Bill Gentry,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM,NOMP",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL,NOMP-FLEX",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 40,
+          "descr": "GRAD MHAHPM Off Campus Majors",
+          "enrl_tot": 20
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 15,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "088274",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "956",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 12381,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "620",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "RA",
+      "instruction_mode_descr": "Remote Only - All Asynchronous",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 55,
+      "enrollment_total": 50,
+      "enrollment_available": 5,
+      "descr": "Implementing Health Informatics Initiatives",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Timothy Carney",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Timothy Carney,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL",
+      "reserve_caps": [],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 16,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "022142",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 14370,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "621",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "RS",
+      "instruction_mode_descr": "Remote Only - Synchronous",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 30,
+      "enrollment_total": 19,
+      "enrollment_available": 11,
+      "descr": "International Humanitarian Crises and Emergencies",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "Y",
+      "combined_descr": "This is a combined section class",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Bill Gentry",
+          "email": ""
+        },
+        {
+          "name": "Dalshad Al-Jaf",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "We",
+          "start_time": "19.30.00.000000",
+          "end_time": "21.00.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Bill Gentry,\n\rDalshad Al-Jaf"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [],
+      "reserved_combined_info": {
+        "class_enrl_cap": 30,
+        "combined_enrl_cap": 60,
+        "enrl_tot_other_combined": 6
+      },
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 17,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "089101",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "956",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1543,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "630",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "RA",
+      "instruction_mode_descr": "Remote Only - All Asynchronous",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 8,
+      "wait_cap": 999,
+      "class_capacity": 65,
+      "enrollment_total": 12,
+      "enrollment_available": 53,
+      "descr": "IHI Course in Healthcare Quality Improvement",
+      "rqmnt_designtn": "",
+      "units": "1.5",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Bill Gentry",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Bill Gentry,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 65,
+          "descr": "UG/GRAD HPM MAJORS",
+          "enrl_tot": 11
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 18,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "017651",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1622,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "671",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 60,
+      "enrollment_total": 16,
+      "enrollment_available": 44,
+      "descr": "Statistical Methods for Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "E.David Zepeda",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "14.00.00.000000",
+          "end_time": "15.15.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "MC",
+          "bldg_has_coordinates": false,
+          "facility_descr": "McGavran-Greenberg -Rm 2306",
+          "room": "2306",
+          "facility_id": "MC2306",
+          "instructor": "E.David Zepeda,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM,IPC",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL,IPC-GM",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 55,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 16
+        },
+        {
+          "rsrv_cap_nbr": 2,
+          "start_dt": "01/13/2022",
+          "enrl_cap": 5,
+          "descr": "GRAD PHDHPM & MPSBMHI Majors",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 19,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "017651",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "967",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1799,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "671",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IR",
+      "instruction_mode_descr": "In Person On Campus + Remote",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 40,
+      "enrollment_total": 1,
+      "enrollment_available": 39,
+      "descr": "Statistical Methods for Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Eddie Alcorn",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Tu",
+          "start_time": "19.00.00.000000",
+          "end_time": "21.30.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Eddie Alcorn,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,IM,IPC",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IM-DP-DL,IPC-GM",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "03/22/2021",
+          "enrl_cap": 40,
+          "descr": "GRAD MHAHPM Off Campus Majors",
+          "enrl_tot": 1
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 20,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "087916",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1544,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "690",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 65,
+      "enrollment_total": 0,
+      "enrollment_available": 65,
+      "descr": "Special Topics in Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "0.5 - 3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Jeffrey Simms",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Jeffrey Simms,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,NOMP",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,NOMP-FLEX",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 65,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 21,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "087916",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "002",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 14431,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "690",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 65,
+      "enrollment_total": 0,
+      "enrollment_available": 65,
+      "descr": "Special Topics in Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "0.5 - 3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Jeffrey Simms",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Jeffrey Simms"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "12/18/2025",
+          "enrl_cap": 65,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 22,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "087916",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "003",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 14432,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "690",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 65,
+      "enrollment_total": 0,
+      "enrollment_available": 65,
+      "descr": "Special Topics in Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "0.5 - 3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Jeffrey Simms",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Jeffrey Simms"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "12/18/2025",
+          "enrl_cap": 65,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 23,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "087916",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "004",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 14433,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "690",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 65,
+      "enrollment_total": 0,
+      "enrollment_available": 65,
+      "descr": "Special Topics in Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "0.5 - 3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Jeffrey Simms",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Jeffrey Simms"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "12/18/2025",
+          "enrl_cap": 65,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 24,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "087916",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "005",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 14434,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "690",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 65,
+      "enrollment_total": 0,
+      "enrollment_available": 65,
+      "descr": "Special Topics in Health Policy and Management",
+      "rqmnt_designtn": "",
+      "units": "0.5 - 3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Jeffrey Simms",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "Jeffrey Simms"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "12/18/2025",
+          "enrl_cap": 65,
+          "descr": "Graduate HPM Majors",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 25,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "012183",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 1107,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "HPM",
+      "subject_descr": "HEALTH POLICY AND MANAGEMENT",
+      "catalog_nbr": "691H",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SPH",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "HLTP",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 30,
+      "enrollment_total": 17,
+      "enrollment_available": 13,
+      "descr": "Honors Research I",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "KARL UMBLE",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Mo",
+          "start_time": "15.35.00.000000",
+          "end_time": "18.35.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "RO",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Rosenau Hall-Rm 0123",
+          "room": "0123",
+          "facility_id": "RO0123",
+          "instructor": "KARL UMBLE,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL,GE,IDEA,RESI",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,GE-CON-E6,IDEA-RESEARCH,RESI-RESI",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/28/2023",
+          "enrl_cap": 30,
+          "descr": "UG Health Policy Maj (BSPHPM)",
+          "enrl_tot": 17
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    }
+  ]
+}

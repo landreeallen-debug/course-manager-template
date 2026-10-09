@@ -1,0 +1,180 @@
+{
+  "subject": "GOVT",
+  "descr": "GOVERNMENT",
+  "classes": [
+    {
+      "index": 1,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "025912",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 5731,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "GOVT",
+      "subject_descr": "GOVERNMENT",
+      "catalog_nbr": "401",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOG",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PUBA",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 3,
+      "wait_cap": 999,
+      "class_capacity": 30,
+      "enrollment_total": 30,
+      "enrollment_available": 0,
+      "descr": "State and Local Governance",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "W",
+      "enrl_stat_descr": "Wait List",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "Gregory Russell",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TuTh",
+          "start_time": "15.30.00.000000",
+          "end_time": "16.45.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "KN",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Knapp-Sanders Bldg-Rm 1300",
+          "room": "1300",
+          "facility_id": "KN1300",
+          "instructor": "Gregory Russell,\n\r-,\n\r-"
+        }
+      ],
+      "crse_attr": "APPL,CC,CL",
+      "crse_attr_value": "APPL-Y,CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "03/30/2017",
+          "enrl_cap": 12,
+          "descr": "UG SO JR or SR Students",
+          "enrl_tot": 12
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 2,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "093149",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 15433,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "GOVT",
+      "subject_descr": "GOVERNMENT",
+      "catalog_nbr": "402",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOG",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PUBA",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 5,
+      "wait_cap": 999,
+      "class_capacity": 30,
+      "enrollment_total": 30,
+      "enrollment_available": 0,
+      "descr": "Thinking about Law and Government",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "W",
+      "enrl_stat_descr": "Wait List",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Charles SZYPSZAK",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "MoWe",
+          "start_time": "15.35.00.000000",
+          "end_time": "16.50.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "KN",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Knapp-Sanders Bldg-Rm 1300",
+          "room": "1300",
+          "facility_id": "KN1300",
+          "instructor": "-,\n\r-,\n\r-,\n\rCharles SZYPSZAK"
+        }
+      ],
+      "crse_attr": "CC,CL,IDEA",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0,IDEA-FC-VALUES",
+      "reserve_caps": [],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    }
+  ]
+}

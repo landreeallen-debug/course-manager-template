@@ -1,0 +1,956 @@
+{
+  "subject": "PHRS",
+  "descr": "PHARMACEUTICAL SCIENCES",
+  "classes": [
+    {
+      "index": 1,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092128",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11210,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LAB",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "395",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 28,
+      "enrollment_total": 8,
+      "enrollment_available": 20,
+      "descr": "Research in Pharmaceutical Sciences",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "SCOTT SINGLETON",
+          "email": ""
+        }
+      ],
+      "section_type": "Laboratory",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "-,\n\r-,\n\r-,\n\rSCOTT SINGLETON"
+        }
+      ],
+      "crse_attr": "CC,CL,IDEA",
+      "crse_attr_value": "CC-P*,CC-U*,CC-UG,CL-U2,IDEA-RESEARCH",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 28,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 7
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 2,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092129",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 10581,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "501",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "RA",
+      "instruction_mode_descr": "Remote Only - All Asynchronous",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 1,
+      "wait_cap": 999,
+      "class_capacity": 20,
+      "enrollment_total": 3,
+      "enrollment_available": 17,
+      "descr": "Fundamentals of Regulatory Affairs",
+      "rqmnt_designtn": "",
+      "units": "2",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Patricia Termini",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "start_time": "",
+          "end_time": "",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "-,\n\r-,\n\r-,\n\rPatricia Termini,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 3
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 3,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092130",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11204,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "502",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 2,
+      "wait_cap": 999,
+      "class_capacity": 40,
+      "enrollment_total": 13,
+      "enrollment_available": 27,
+      "descr": "Making Medicines: Drug Discovery, Development, and Approval",
+      "rqmnt_designtn": "",
+      "units": "1",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "SCOTT SINGLETON",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Mo",
+          "start_time": "16.40.00.000000",
+          "end_time": "17.30.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "BE",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Beard Hall-Rm 0208",
+          "room": "0208",
+          "facility_id": "BE0208",
+          "instructor": "-,\n\r-,\n\r-,\n\rSCOTT SINGLETON"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 40,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 13
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 4,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092194",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11201,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "507",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 20,
+      "enrollment_total": 4,
+      "enrollment_available": 16,
+      "descr": "Molecular Foundations of Chemical Biology: Organic and Medicinal Chemistry",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Alison Axtman",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "MoWe",
+          "start_time": "10.00.00.000000",
+          "end_time": "11.20.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "MR",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Marsico Hall-Rm 3004",
+          "room": "3004",
+          "facility_id": "MR3004",
+          "instructor": "-,\n\r-,\n\r-,\n\rAlison Axtman,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 4
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 5,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092211",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11203,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "515",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 999,
+      "class_capacity": 20,
+      "enrollment_total": 4,
+      "enrollment_available": 16,
+      "descr": "Evaluation Research and Project Design",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Jacqui McLaughlin",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "We",
+          "start_time": "12.00.00.000000",
+          "end_time": "14.50.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "-,\n\r-,\n\r-,\n\rJacqui McLaughlin,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 4
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 6,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092205",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 13012,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "538",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 1,
+      "wait_cap": 999,
+      "class_capacity": 20,
+      "enrollment_total": 7,
+      "enrollment_available": 13,
+      "descr": "Drug Delivery and Nanomedicine I",
+      "rqmnt_designtn": "",
+      "units": "3",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Alexander Kabanov",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "MoWe",
+          "start_time": "10.30.00.000000",
+          "end_time": "11.50.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "MR",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Marsico Hall-Rm 4004",
+          "room": "4004",
+          "facility_id": "MR4004",
+          "instructor": "-,\n\r-,\n\r-,\n\rAlexander Kabanov,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 7
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 7,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092195",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11205,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "596",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 0,
+      "wait_cap": 0,
+      "class_capacity": 20,
+      "enrollment_total": 2,
+      "enrollment_available": 18,
+      "descr": "Pharmaceutical Sciences Seminar in Chemical Biology and Medicinal Chemistry",
+      "rqmnt_designtn": "",
+      "units": "1",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Lindsey James",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "We",
+          "start_time": "12.20.00.000000",
+          "end_time": "13.30.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "KE",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Kerr Hall-Rm 2001",
+          "room": "2001",
+          "facility_id": "KE2001",
+          "instructor": "-,\n\r-,\n\r-,\n\rLindsey James,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 2
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 8,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092199",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11206,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "597",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 1,
+      "wait_cap": 999,
+      "class_capacity": 20,
+      "enrollment_total": 3,
+      "enrollment_available": 17,
+      "descr": "Pharmaceutical Sciences Seminar in Pharmacotherapy and Experimental Therapeutics",
+      "rqmnt_designtn": "",
+      "units": "1",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "PAUL WATKINS",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Mo",
+          "start_time": "12.00.00.000000",
+          "end_time": "12.50.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "BE",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Beard Hall-Rm 0209",
+          "room": "0209",
+          "facility_id": "BE0209",
+          "instructor": "-,\n\r-,\n\r-,\n\rPAUL WATKINS,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 3
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 9,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092200",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11208,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "598",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 1,
+      "wait_cap": 999,
+      "class_capacity": 20,
+      "enrollment_total": 1,
+      "enrollment_available": 19,
+      "descr": "Pharmaceutical Sciences Seminar in Pharmacoengineering and Molecular Pharmaceutics",
+      "rqmnt_designtn": "",
+      "units": "1",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Juliane Nguyen",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "Mo",
+          "start_time": "12.30.00.000000",
+          "end_time": "14.30.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "facility_id": "TBA",
+          "facility_descr": "TBA",
+          "instructor": "-,\n\r-,\n\r-,\n\rJuliane Nguyen,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 1
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    },
+    {
+      "index": 10,
+      "institution": "UNCCH",
+      "institution_descr": "UNC-Chapel Hill",
+      "crse_id": "092201",
+      "crse_offer_nbr": 1,
+      "strm": "2269",
+      "session_code": "A",
+      "session_descr": "Session A",
+      "class_section": "001",
+      "location": "SA-UNCCH",
+      "location_descr": "UNC Chapel Hill",
+      "start_dt": "08/17/2026",
+      "end_dt": "12/11/2026",
+      "class_stat": "A",
+      "campus": "MAIN",
+      "campus_descr": "UNC Chapel Hill",
+      "class_nbr": 11207,
+      "acad_career": "UGRD",
+      "acad_career_descr": "Undergraduate",
+      "component": "LEC",
+      "subject": "PHRS",
+      "subject_descr": "PHARMACEUTICAL SCIENCES",
+      "catalog_nbr": "599",
+      "class_type": "E",
+      "schedule_print": "Y",
+      "acad_group": "SOP",
+      "instruction_mode": "IP",
+      "instruction_mode_descr": "In Person On Campus Learners",
+      "acad_org": "PHAR",
+      "grading_basis": "Undergrad - graded",
+      "wait_tot": 1,
+      "wait_cap": 999,
+      "class_capacity": 20,
+      "enrollment_total": 0,
+      "enrollment_available": 20,
+      "descr": "Pharmaceutical Sciences Seminar in Pharmaceutical Outcomes and Policy",
+      "rqmnt_designtn": "",
+      "units": "1",
+      "combined_section": "N",
+      "enrl_stat": "O",
+      "enrl_stat_descr": "Open",
+      "topic": "",
+      "instructors": [
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        },
+        {
+          "name": "Lisa Spees",
+          "email": ""
+        },
+        {
+          "name": "-",
+          "email": ""
+        }
+      ],
+      "section_type": "Lecture",
+      "meetings": [
+        {
+          "days": "We",
+          "start_time": "12.00.00.000000",
+          "end_time": "12.50.00.000000",
+          "start_dt": "08/17/2026",
+          "end_dt": "12/11/2026",
+          "bldg_cd": "BE",
+          "bldg_has_coordinates": false,
+          "facility_descr": "Beard Hall-Rm 0200",
+          "room": "0200",
+          "facility_id": "BE0200",
+          "instructor": "-,\n\r-,\n\r-,\n\rLisa Spees,\n\r-"
+        }
+      ],
+      "crse_attr": "CC,CL",
+      "crse_attr_value": "CC-G*,CC-P*,CC-U*,CL-G0",
+      "reserve_caps": [
+        {
+          "rsrv_cap_nbr": 1,
+          "start_dt": "04/27/2026",
+          "enrl_cap": 20,
+          "descr": "UGRD Pharm Sciences Minor",
+          "enrl_tot": 0
+        }
+      ],
+      "isInCart": false,
+      "isEnrolled": false,
+      "isWaitlisted": false,
+      "icons": []
+    }
+  ]
+}
